@@ -911,7 +911,7 @@
             ]
         }
     ],
-    "spider": "https://cdn.jsdelivr.net/gh/sunawy/1/j/1004.jar",
+    "spider": "https://cdn.jsdelivr.net/gh/sunawy/1/j/1004.txt",
     "rules": [
         {
             "host": "*",
