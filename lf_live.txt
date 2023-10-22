@@ -80,3 +80,5 @@ https://agit.ai/kankan314/cattv/raw/branch/master/cr18.txt
 https://agit.ai/kankan314/cattv/raw/branch/master/crxx.txt
 #直播22
 https://agit.ai/CloudMist/TVBox/raw/branch/master/18.live
+#直播24
+https://gitcode.net/ygbh66/test/-/raw/master/bhzb.txt
