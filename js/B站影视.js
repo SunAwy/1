@@ -69,6 +69,7 @@ var rule = {
 
     // searchUrl:'/index.php/vod/search/page/fypage/wd/**.html',
 	searchUrl:'/index.php/ajax/suggest?mid=1&wd=**&limit=50',
+    tab_exclude:'b站蓝光',
 	detailUrl:'/index.php/vod/detail/id/fyid.html',
     // 搜索:'.movie-list-body&&.vod-search-list;*;*;.getop&&Text;*',
 	搜索:'json:list;name;pic;;id',
