@@ -19,6 +19,7 @@ var rule = {
         3:{cateId:'3'},
         4:{cateId:'4'}
     },
+    tab_exclude:'b站蓝光',
     searchable:2,//是否启用全局搜索,
     quickSearch:0,//是否启用快速搜索,
     headers:{
@@ -69,7 +70,6 @@ var rule = {
 
     // searchUrl:'/index.php/vod/search/page/fypage/wd/**.html',
 	searchUrl:'/index.php/ajax/suggest?mid=1&wd=**&limit=50',
-    tab_exclude:'b站蓝光',
 	detailUrl:'/index.php/vod/detail/id/fyid.html',
     // 搜索:'.movie-list-body&&.vod-search-list;*;*;.getop&&Text;*',
 	搜索:'json:list;name;pic;;id',
